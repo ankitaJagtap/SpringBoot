@@ -1,0 +1,9 @@
+com\firstProjecct\QuizApp\controller\QuestionController.class
+com\firstProjecct\QuizApp\repository\QuizRepo.class
+com\firstProjecct\QuizApp\repository\QuestionRepo.class
+com\firstProjecct\QuizApp\model\Questions.class
+com\firstProjecct\QuizApp\service\QuestionService.class
+com\firstProjecct\QuizApp\service\QuizService.class
+com\firstProjecct\QuizApp\controller\QuizController.class
+com\firstProjecct\QuizApp\QuizAppApplication.class
+com\firstProjecct\QuizApp\model\Quiz.class
